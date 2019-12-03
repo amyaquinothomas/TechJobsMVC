@@ -1,0 +1,15 @@
+C:\Users\Amy Aquino\Source\Repos\TechJobsMVC\src\TechJobs\bin\Debug\netcoreapp2.0\web.config
+C:\Users\Amy Aquino\Source\Repos\TechJobsMVC\src\TechJobs\bin\Debug\netcoreapp2.0\appsettings.json
+C:\Users\Amy Aquino\Source\Repos\TechJobsMVC\src\TechJobs\bin\Debug\netcoreapp2.0\bower.json
+C:\Users\Amy Aquino\Source\Repos\TechJobsMVC\src\TechJobs\bin\Debug\netcoreapp2.0\bundleconfig.json
+C:\Users\Amy Aquino\Source\Repos\TechJobsMVC\src\TechJobs\bin\Debug\netcoreapp2.0\Properties\launchSettings.json
+C:\Users\Amy Aquino\Source\Repos\TechJobsMVC\src\TechJobs\bin\Debug\netcoreapp2.0\TechJobs.deps.json
+C:\Users\Amy Aquino\Source\Repos\TechJobsMVC\src\TechJobs\bin\Debug\netcoreapp2.0\TechJobs.runtimeconfig.json
+C:\Users\Amy Aquino\Source\Repos\TechJobsMVC\src\TechJobs\bin\Debug\netcoreapp2.0\TechJobs.runtimeconfig.dev.json
+C:\Users\Amy Aquino\Source\Repos\TechJobsMVC\src\TechJobs\bin\Debug\netcoreapp2.0\TechJobs.dll
+C:\Users\Amy Aquino\Source\Repos\TechJobsMVC\src\TechJobs\bin\Debug\netcoreapp2.0\TechJobs.pdb
+C:\Users\Amy Aquino\Source\Repos\TechJobsMVC\src\TechJobs\obj\Debug\netcoreapp2.0\TechJobs.csprojAssemblyReference.cache
+C:\Users\Amy Aquino\Source\Repos\TechJobsMVC\src\TechJobs\obj\Debug\netcoreapp2.0\TechJobs.AssemblyInfoInputs.cache
+C:\Users\Amy Aquino\Source\Repos\TechJobsMVC\src\TechJobs\obj\Debug\netcoreapp2.0\TechJobs.AssemblyInfo.cs
+C:\Users\Amy Aquino\Source\Repos\TechJobsMVC\src\TechJobs\obj\Debug\netcoreapp2.0\TechJobs.dll
+C:\Users\Amy Aquino\Source\Repos\TechJobsMVC\src\TechJobs\obj\Debug\netcoreapp2.0\TechJobs.pdb
