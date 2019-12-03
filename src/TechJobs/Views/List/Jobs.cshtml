@@ -2,6 +2,40 @@
 
 <h3>@ViewBag.jobs.Count Result(s)</h3>
 
-@{ 
-    // TODO #3 - Use the same list display from Views/Search/Index.cshtml 
+
+@if (ViewBag.jobs != null)
+{
+
+    <h3>@ViewBag.jobs.Count Result(s)</h3>
+
+    // TODO #3
+
+    @foreach (Dictionary<string, string> jobs in ViewBag.jobs)
+    {
+        <p>Name</p>
+        <p>@jobs["name"]</p>
+
+        <br />
+
+        <p>Employer</p>
+        <p>@jobs["employer"]</p>
+
+        <br />
+
+        <p>Postion Type</p>
+        <p>@jobs["position type"]</p>
+
+        <br />
+
+        <p>Core Competency</p>
+        <p>@jobs["core competency"]</p>
+
+        <br />
+
+        <p>Location</p>
+        <p>@jobs["location"]</p>
+
+        <br />
+        <hr />
+    }
 }
